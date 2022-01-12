@@ -46,5 +46,5 @@ dependencies {
 }
 
 jar {
-    baseName = 'mix-spring5'
+    archiveBaseName = 'mix-spring5'
 }
